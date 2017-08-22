@@ -1,2 +1,0 @@
-# bigdata_project_recommender_systems
-
