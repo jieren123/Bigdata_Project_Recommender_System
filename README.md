@@ -2,7 +2,7 @@
 In this project, the movie recommender system based on **Item Collaborative Filtering** using **Hadoop MapReduce** in Java。
 
 ## Architecture overview
-![alt text](https://github.com/jieren123/Bigdata_Project_Recommender_System/blob/master/pictures-diagrams/RecommenderSystem_1.png
+![alt text](https://github.com/jieren123/Bigdata_Project_Recommender_System/blob/master/Pictures-Diagrams/RecommenderSystem_1.png
  "Recommender System")
 
 ## Dataset Description
