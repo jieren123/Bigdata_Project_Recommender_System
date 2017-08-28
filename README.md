@@ -12,7 +12,7 @@ The movie recommender system is based on **Item Collaborative Filtering** and **
 ![alt text](https://github.com/jieren123/Bigdata_Project_Recommender_System/blob/master/Pictures-Diagrams/RecommenderSystem_1.png
  "Recommender System")
  
-## Algorithms used for recommender system
+## Algorithms Used For Recommender System
 **Item Collaborative Filtering** is a form of collaborative filtering for recommender systems based on the similarity between items calculated using people's ratings of those items. Item CF is used beacause: 1. The total number of movie users weighs more than total number of movie products. 2.Item will not change frequently and has lower calculation than User CF due to the dynamic nature of user. 
 3. It is more convincing to use user's historical data. 
 
@@ -24,7 +24,7 @@ The movie recommender system is based on **Item Collaborative Filtering** and **
 	- Multiply co-occurrence matrix and rating matrix 
 	- Generate recommender list 
 
-## How to run 
+## How To Run 
 ```
 hadoop com.sun.tools.javac.Main *.java
 jar cf recommender.jar *.class
