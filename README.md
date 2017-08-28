@@ -1,6 +1,5 @@
 ## Project Overview 
-The movie recommender system is based on **Item Collaborative Filtering** and **Hadoop MapReduce** in Java, by using **Item Collaborative Filtering**.
-
+The movie recommender system is based on **Item Collaborative Filtering** and **Hadoop MapReduce** in Java.
 ## Dataset Description
 - The dataset used is taken from Netflix Prize Challenge. 
 - Movies and their numbers are extracted in a file called 'movie_title.txt'
