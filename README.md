@@ -22,7 +22,7 @@ The movie recommender system is based on **Item Collaborative Filtering** and **
 - Normalization.java: Normalize co-occurence matrix 
 - Multiplication.java: Multiply co-occurrence matrix and rating matrix 
 - Sum.java: Generate recommender list 
-- Drivie.java:
+- Drivie.java
 
 ## Compiling and Running
 ```
