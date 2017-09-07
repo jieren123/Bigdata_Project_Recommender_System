@@ -22,8 +22,8 @@ public class DataDividerByUser {
 			//input user,movie,rating
 			String[] user_movie_rating = value.toString().trim().split(','); // we have 3 list here 
 			int userID = Integer.parseInt(user_movie_rating[0]);
-			String movieID = user_movie_rating.[1];
-			String rating_score = user_movie_rating.[2];
+			String movieID = user_movie_rating[1];
+			String rating_score = user_movie_rating[2];
 
 			context.write(new IntWritable(userID), new Text(movieID + ':' + rating_score));
 
